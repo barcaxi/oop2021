@@ -14,6 +14,9 @@
 ## Past Papers
 
 
+- [Object Oriented Programming January 2020](../exams/ObjectOrientedProgrammingJanuary2020.pdf?raw=true)
+- [Object Oriented Programming January 2019](../exams/ObjectOrientedProgrammingJanuary2019.pdf?raw=true)
+- [Object Oriented Programming January 2018](../exams/ObjectOrientedProgrammingJanuary2018.pdf?raw=true)
 - [Object Oriented Programming January 2017](../exams/ObjectOrientedProgrammingJanuary2017.pdf?raw=true)
 - [Object Oriented Programming January 2016](../exams/ObjectOrientedProgrammingJanuary2016.pdf?raw=true)
 - [Object Oriented Programming Autumn 2016](../exams/ObjectOrientedProgrammingAutumn2016.pdf?raw=true)
