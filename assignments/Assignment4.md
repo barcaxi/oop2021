@@ -130,10 +130,10 @@ You'll see a *Defender* at the left side of the screen that you can move up and 
 	e.   At the label *Part 1 (lander off-screen)*, update the code to check if any landers go off-screen.  When a lander goes off-screen remove the lander from the arraylist using code like this:
 	
 	```java
-	landers.remove(tmpLander);
-	
+	landers.remove(tmpLander);	
 	```
-		and respawn (re-create) the lander again to reappear at the top of the screen.
+
+	and respawn (re-create) the lander again to reappear at the top of the screen.
 
 	f.   At the label *Part 1 (projectile collisions with Lander)*, update the code to check for a projectile colliding with any lander objects in the arraylist.  The code is similar to the code solution used above in (e).  If a projectile hits a lander respawn (re-create) the lander again to reappear at the top of the screen.
 
