@@ -12,8 +12,6 @@
 
 The deadline for electronic submissions is midnight Thursday 23rd December 2021.  Submit your code via the link on BlackBoard.
 
-The deadline for paper submissions is Friday 20th December 2019.  Submit your paper submission at PR3316.  The paper submission will include a [Cover Sheet](resources/.docx?raw=true).
-
 
 **A note on plagiarism and cheating**
 
@@ -130,11 +128,11 @@ You'll see a *Defender* at the left side of the screen that you can move up and 
 	d.   In `update()` method, comment out the code that displays the single lander and add code that displays all lander objects (use an enhanced for loop)
     
 	e.   At the label *Part 1 (lander off-screen)*, update the code to check if any landers go off-screen.  When a lander goes off-screen remove the lander from the arraylist using code like this:
-
-		```java
-		landers.remove(tmpLander);
-		```
-
+	
+	```java
+	landers.remove(tmpLander);
+	
+	```
 		and respawn (re-create) the lander again to reappear at the top of the screen.
 
 	f.   At the label *Part 1 (projectile collisions with Lander)*, update the code to check for a projectile colliding with any lander objects in the arraylist.  The code is similar to the code solution used above in (e).  If a projectile hits a lander respawn (re-create) the lander again to reappear at the top of the screen.
