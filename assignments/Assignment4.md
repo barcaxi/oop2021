@@ -2,11 +2,11 @@
 
 ## Contents
 
-- [Part 1](#part-1) [%]
-- [Part 2](#part-2) [%]
-- [Part 3](#part-3) [%]
-- [Part 4](#part-4) [%]
-- [Part 5](#part-5) [%]
+- [Part 1](#part-1) [29%]
+- [Part 2](#part-2) [30%]
+- [Part 3](#part-3) [11%]
+- [Part 4](#part-4) [11%]
+- [Part 5](#part-5) [19%]
 
 ## Submission Details
 
