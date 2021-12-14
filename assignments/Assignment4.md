@@ -258,7 +258,7 @@ Make a copy of your ``defender1`` project folder, paste and rename it ``defender
 
 <!-- 1.	More??? -->
 
-See video [here]() for an example of how Part 2 should run when done.
+See video [here](https://media.heanet.ie/page/bae3bfe115364d5caa35e2a00a3291e6) for an example of how Part 2 should run when done.
 
 
 
@@ -276,7 +276,7 @@ Make a copy of your ``defender2`` project folder, paste and rename it ``defender
 	
 	These changes will cause errors in the ``Game`` class.  Fix them by using an appropriate ``try..catch`` statement using the new exception.  If an `InvalidDefenderLocationException` exception is thrown when creating a `Defender` object in `Game` print the message returned by the exception class **and** stop the program by using the ``exit()`` method.  Therefore, if an invalid (x,y) is given for a defender the game/program should stop.  Test your new exception works by using some off-screen values for the defender.
 
-See video [here]() for an example of how Part 3 should run when done.
+See video [here](https://media.heanet.ie/page/222fdf8c7c5e43839f2245070521d04f) for an example of how Part 3 should run when done.
 
 
 ## Part 4 – Interface ``Blockable`` 
@@ -301,7 +301,7 @@ Make a copy of your ``defender3`` project folder, paste and rename it ``defender
 
 1.	At the moment the baiter appears at a random location along the y plane.  Change this so the baiter appears at the same y location as the defender.  
 
-See video [here]() for an example of how Part 4 should run when done.
+See video [here](https://media.heanet.ie/page/5ee139c329534fd48830d5e515bfc10e) for an example of how Part 4 should run when done.
 
 
 ## Part 5 – `Mutant`, Scores and `Baiter`
@@ -357,4 +357,4 @@ Make a copy of your ``defender4`` project folder, paste and rename it ``defender
 
 1.	Finally, the game should end immediately if you reach 0 (zero) lives.
 
-See video [here]() for an example of how Part 5 should run when done.
+See video [here](https://media.heanet.ie/page/f695f6b5cebe4502b9e1d14cf6a2ef10) for an example of how Part 5 should run when done.
